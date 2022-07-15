@@ -11,10 +11,7 @@ namespace ProblemOne
         Monday,
         Tuesday,
         Wednesday,
-        Thursday,
-        Friday,
-        Saturday,
-        Sunday
+        Thursday
     }
 
 }
